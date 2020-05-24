@@ -1,0 +1,7 @@
+{
+  "name": "test-php",
+  "description": "test php project",
+  "require-dev": {
+    "phpunit/phpunit": "8"
+  }
+}
